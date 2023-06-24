@@ -17,8 +17,6 @@ We will use small 7x7, 8x8, and 10x10 mazes as examples. The cheese is always at
 - [Setup](#Setup)
     - [Frameworks and Packages](#Frameworks-and-Packages)
     
-- [Start](#Start)
-    - [google colabotory](#colab)
 
 - [Result](#Result)
 
